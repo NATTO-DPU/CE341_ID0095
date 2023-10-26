@@ -98,6 +98,7 @@ cat index.html
 
 
 HTML ที่แสดง
-![Screenshot 2023-10-26 213000](https://github.com/NATTO-DPU/CE341_ID0095/assets/144225177/3cdff1d2-3d0e-483b-946e-e3793811bca5)
+![Screenshot 2023-10-26 231603](https://github.com/NATTO-DPU/CE341_ID0095/assets/144225177/620aa9bf-9acc-4227-b32e-c004935d8363)
+
 
 
