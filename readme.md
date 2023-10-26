@@ -53,7 +53,9 @@ Login GitHub Desktop และทำการเลือก file index.html แ
 
 
 Login  สำเร็จจะได้เเบบนี้
+
 ![Screenshot 2023-10-26 203526](https://github.com/NATTO-DPU/CE341_ID0095/assets/144225177/910f45f2-9eb5-4d38-b7ef-f67e153871c0)
+
 
 พิมพ์  code ดังนี้
 
@@ -73,8 +75,26 @@ git init
 
 
 จากนั้น พิมพ์  code
-git clone ตามด้วย URL ของ GitHub
+git clone 
+ตามด้วย URL ของ GitHub
 
+![Screenshot 2023-10-26 204813](https://github.com/NATTO-DPU/CE341_ID0095/assets/144225177/c0157acf-670c-41fc-ba2c-d740d3a01db4)
+![Screenshot 2023-10-26 205125](https://github.com/NATTO-DPU/CE341_ID0095/assets/144225177/099b9db1-44db-4ca3-a5e9-fce88bdf1f23)
+
+
+จากนั้น พิมพ์ code
+ls
+จะแสดง file ทีมีอยู่
+
+![Screenshot 2023-10-26 205339](https://github.com/NATTO-DPU/CE341_ID0095/assets/144225177/eb54eb74-4d33-46d0-8ae5-40bee251cfbd)
+
+
+พิมพ์ code
+cd CE341_ID0095/.git/
+cd ..
+cat index.html
+
+![1698330249684](https://github.com/NATTO-DPU/CE341_ID0095/assets/144225177/871bbba1-99e7-4753-9902-273bf6d9aba1)
 
 
 
