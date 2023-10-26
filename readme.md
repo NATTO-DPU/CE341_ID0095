@@ -104,7 +104,7 @@ ls
 sudo mv index.html /var/www/html
 
 
-![Screenshot 2023-10-26 232730](https://github.com/NATTO-DPU/CE341_ID0095/assets/144225177/1a88d693-1cf6-4bc3-923b-a00cd596f232)
+![Screenshot 2023-10-26 232730](https://github.com/NATTO-DPU/CE341_ID0095/assets/144225177/7173c672-9fb2-4567-8202-e66c4fef4a0b)
 
 
 
