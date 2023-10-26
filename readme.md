@@ -53,7 +53,9 @@ Login GitHub Desktop และทำการเลือก file index.html แ
 
 
 Login  สำเร็จจะได้เเบบนี้
+
 ![Screenshot 2023-10-26 203526](https://github.com/NATTO-DPU/CE341_ID0095/assets/144225177/910f45f2-9eb5-4d38-b7ef-f67e153871c0)
+
 
 พิมพ์  code ดังนี้
 
