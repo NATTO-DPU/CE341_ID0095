@@ -92,12 +92,13 @@ ls
 พิมพ์ code
 cd
 cd CE341_ID0095
-cat index.html
+ls 
+จะแสดงไฟล์ index.html และ readme.md
+พิมพ์ code
+sudo mv index.html /var/www/html
 
-![1698330249684](https://github.com/NATTO-DPU/CE341_ID0095/assets/144225177/871bbba1-99e7-4753-9902-273bf6d9aba1)
+นำ ip ที่ไปใส่ใน Google Chrome จะเเสดงดังนี้
 
-
-HTML ที่แสดง
 ![Screenshot 2023-10-26 231603](https://github.com/NATTO-DPU/CE341_ID0095/assets/144225177/620aa9bf-9acc-4227-b32e-c004935d8363)
 
 
