@@ -90,8 +90,8 @@ ls
 
 
 พิมพ์ code
-cd CE341_ID0095/.git/
-cd ..
+cd
+cd CE341_ID0095
 cat index.html
 
 ![1698330249684](https://github.com/NATTO-DPU/CE341_ID0095/assets/144225177/871bbba1-99e7-4753-9902-273bf6d9aba1)
